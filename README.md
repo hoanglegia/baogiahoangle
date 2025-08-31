@@ -10,6 +10,7 @@ My name is Le Bao Gia Hoang, a third-year student majoring in Electronics and Te
 
 # Projects:
 1. **STM32 RTOS Multi-Task System**
+
 Description: Developed real-time multi-task system on STM32F405RGT6 using FreeRTOS and C programming language in STM32CubeMX and Keil C
 Hardware: Open405R-C board, CAN modules, FM24CLXX FRAM, 2.8inch Resistive Touch LCD
 My Responsibilities:
@@ -22,12 +23,14 @@ Links & Resources:
 [https://github.com/baogiahoangle/open405r-c#]
 
 2. **FPGA DE10 Digital Stopwatch with 7-Segment Display**
+
 Description: Designed a digital stopwatch system on FPGA DE10 board using Verilog HDL with 7-segment display and push-button controls
 My Responsibilities: Implemented 50MHz to 1Hz clock divider, binary-to-7-segment decoder, counter control logic, and top-level module integration
 Links:
 [https://drive.google.com/file/d/10smjEZmZK7zuFbVe0R21_7sr682iPNYy/view?usp=sharin]
 
 3. **Online Fashion Retail System**
+   
 Description: Implemented a complete online shopping system for fashion
 Technology Stack: 
 - Backend: Framework: Django (Python), API: Django REST Framework
